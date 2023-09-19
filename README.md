@@ -1,18 +1,14 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vjvibhanshu&label=Profile%20views&color=0e75b6&style=flat" alt="vjvibhanshu" /> </p>
 <img align="right" alt="GIF" src="JXA0.gif" />
 <h1 align="center">Hi 👋, I'm Vibhanshu</h1>
 <h3 align="center">A passionate full stack Automation Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vjvibhanshu&label=Profile%20views&color=0e75b6&style=flat" alt="vjvibhanshu" /> </p>
-
 - 📫 How to reach me **vibhanshujain30@gmail.com**
 <span style="font-family:'Consolas';font-size:65mm;white-space: nowrap;">
   <ul>
-  <li>👩‍🎓 I am a PhD student at UC Riverside.</li>
+  <li>👩‍🎓 I am a full stack Automation Tester.</li>
   <li>🤓 I love to learn new things. </li>
-  <li>🍳 I love cooking. </li>
   <li>🧭 I wish to travel all around the world. </li>
-  <li>🍫 I have obsessive chocolate disorder.</li>
-  <li>🎅 I believe Santa is real.</li>
  </ul>
 </span>
 
