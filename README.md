@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Eye-catching features of the Playwright](https://medium.com/@vibhanshu_jain/eye-catching-features-of-the-playwright-52e4e11c9943?source=rss-5fe5a5e9ab9d------2)
 - [Eye-catching features of the Playwright](https://dev.to/vibhanshujain/eye-catching-features-of-the-playwright-3lb9)
 - [Playwright Awesome Selectors](https://dev.to/vibhanshujain/playwright-awesome-selectors-198m)
-- [Playwright Awesome Selectors](https://medium.com/@vibhanshu_jain/playwright-awesome-selectors-6b5460e8d207?source=rss-5fe5a5e9ab9d------2)
+- [Playwright ?](https://dev.to/vibhanshujain/playwright--2b0a)
+- [Cypress?](https://dev.to/vibhanshujain/cypress-4go5)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
