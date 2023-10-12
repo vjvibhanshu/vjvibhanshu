@@ -8,7 +8,7 @@
   <ul>
   <li>👩‍🎓 I am a full stack Automation Tester.</li>
   <li>🤓 I love to learn new things. </li>
-  <li>🧭 I wish to travel all around the world. </li>
+  <li>🧭 Have query related to the automation testing? connect with me. </li>
  </ul>
 </span>
 
